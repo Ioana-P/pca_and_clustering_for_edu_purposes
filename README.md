@@ -1,8 +1,9 @@
-# Demo of PCA/Truncated SVD and clustering for students in their final module
-Upon request from students in their final cohort, I ran a short tutorial on Principal Component Analysis (and one example of truncated Singular Value Decomposition) and on on a couple of different types of clustering.
+# Unsupervised Learning:
+# Using Dimensionality Reduction (PCA and Truncated SVD) followed by clustering
+Upon request from students in their final cohort, I ran a short tutorial on Principal Component Analysis and Singular Value Decomposition and on on a couple of different types of clustering.
 The Jupyter Notebooks are left un-refactored on purpose for showing code application to students. 
 
-Both of the notebooks illustrate a process of performing PCA and Clustering on a different canonical dataset, respectively:
+Both of the notebooks illustrate a process of performing dimensionality reduction and Clustering on a different canonical dataset, respectively:
  - sklearn's wine dataset
  - sklearn's 20 Newsgroups dataset
  
