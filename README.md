@@ -1,5 +1,5 @@
 # Unsupervised Learning:
-# Using Dimensionality Reduction (PCA and Truncated SVD) followed by clustering
+# Using Dimensionality Reduction (PCA and Truncated SVD / LSA) as well as some examples of clustering
 Upon request from students in their final cohort, I ran a short tutorial on Principal Component Analysis and Singular Value Decomposition and on on a couple of different types of clustering.
 The Jupyter Notebooks are left un-refactored on purpose for showing code application to students. 
 
