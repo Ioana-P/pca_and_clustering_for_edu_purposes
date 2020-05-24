@@ -17,5 +17,7 @@ Both of the notebooks illustrate a process of performing dimensionality reductio
  
  Index:
  
-newsgroups_clustering.ipynb - contains examples of text preprocessing and analysis as well as Truncated SVD, clustering and cluster analysis; 
+newsgroups_clustering.ipynb - contains examples of text preprocessing and analysis as well as LSA via Sklearn's TruncatedSVD
 pca_cluster_glass_data.ipynb - PCA and clustering performed on sklearn's glass dataset;
+glass.csv - sklearn's glass dataset;
+archive - directory for discarded notebooks
